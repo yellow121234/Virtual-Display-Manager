@@ -1,0 +1,35 @@
+<Window x:Class="VirtualDisplayManager.App.PreviewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="큰 화면 미리보기" Width="1280" Height="800"
+        MinWidth="640" MinHeight="420" Background="Black"
+        WindowStartupLocation="CenterOwner" ResizeMode="CanResize"
+        PreviewKeyDown="Window_PreviewKeyDown">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <DockPanel x:Name="Toolbar" Background="#202020" LastChildFill="True">
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Right" Margin="12,8">
+                <Button x:Name="FullScreenButton" Content="전체 화면" Click="FullScreenButton_Click" />
+                <Button Content="창 닫기" Click="CloseButton_Click" Margin="0" />
+            </StackPanel>
+            <StackPanel Margin="12,8">
+                <TextBlock x:Name="MonitorNameText" Foreground="White" FontSize="15" FontWeight="SemiBold" />
+                <TextBlock x:Name="StatusText" Foreground="#CFCFCF" FontSize="12" />
+            </StackPanel>
+        </DockPanel>
+
+        <Border Grid.Row="1" Background="Black" MouseLeftButtonDown="PreviewArea_MouseLeftButtonDown">
+            <Grid>
+                <TextBlock x:Name="PlaceholderText"
+                           Text="미리보기 프레임을 기다리는 중…"
+                           Foreground="#B0B0B0" FontSize="18"
+                           HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <Image x:Name="LargePreviewImage" Stretch="Uniform" SnapsToDevicePixels="True" />
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

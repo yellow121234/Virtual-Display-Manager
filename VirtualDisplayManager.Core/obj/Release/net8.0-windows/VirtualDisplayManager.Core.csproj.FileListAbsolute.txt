@@ -1,0 +1,12 @@
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\bin\Release\net8.0-windows\VirtualDisplayManager.Core.deps.json
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\bin\Release\net8.0-windows\VirtualDisplayManager.Core.dll
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\bin\Release\net8.0-windows\VirtualDisplayManager.Core.pdb
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\obj\Release\net8.0-windows\VirtualDisplayManager.Core.csproj.AssemblyReference.cache
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\obj\Release\net8.0-windows\VirtualDisplayManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\obj\Release\net8.0-windows\VirtualDisplayManager.Core.AssemblyInfoInputs.cache
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\obj\Release\net8.0-windows\VirtualDisplayManager.Core.AssemblyInfo.cs
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\obj\Release\net8.0-windows\VirtualDisplayManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\obj\Release\net8.0-windows\VirtualDisplayManager.Core.dll
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\obj\Release\net8.0-windows\refint\VirtualDisplayManager.Core.dll
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\obj\Release\net8.0-windows\VirtualDisplayManager.Core.pdb
+C:\Users\이심옥\Downloads\VirtualDisplayManager_F11_PrimaryKeepExtend\VirtualDisplayManager.Core\obj\Release\net8.0-windows\ref\VirtualDisplayManager.Core.dll
